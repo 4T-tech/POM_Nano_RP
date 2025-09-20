@@ -1,0 +1,3 @@
+1.USB_ESP32-download文件夹为rp2040的源码，需要VScode上有树莓派pico-sdk的环境才能编译。
+2.USB_ESP32_Download.uf2直接复制到rp2040的内存盘里面，就可以使用连接rp2040的USB口给ESP32下载固件。
+3.USB_AT_Mode.uf2直接复制到rp2040的内存盘里面，就可以使用连接rp2040的USB口给ESP32发送AT指令了。
